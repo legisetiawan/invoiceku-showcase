@@ -93,8 +93,8 @@ Source code lengkap tersedia di platform berikut:
 
 | Platform | Harga | Link |
 |----------|-------|------|
-| **Gumroad** | $12 - $39 | [🛒 Beli di Gumroad](https://legisetiawan.gumroad.com/l/invoiceku) |
-| **KaryaKarsa** | Rp 49.000 - 75.000 | [🇮🇩 Beli di KaryaKarsa](https://karyakarsa.com/legisetiawan) |
+| **Gumroad** | $12 - $39 | [🛒 Beli di Gumroad](https://setiawan78.gumroad.com/l/android-invoice-app-source-code) |
+| **KaryaKarsa** | Rp 49.000 - 75.000 | [🇮🇩 Beli di KaryaKarsa](https://karyakarsa.com/legi-setiawan/source-code-aplikasi-invoice-android-jetpack-compose-room-database-fitur-export-pdf-amp-share-wa-harga) |
 
 </div>
 
@@ -105,8 +105,9 @@ Source code lengkap tersedia di platform berikut:
 - ✅ Dokumentasi lengkap (README.md)
 - ✅ Lisensi Personal (untuk belajar & portofolio)
 
+
 **Standard License ($19 / Rp 65.000)** ⭐ *RECOMMENDED*
-- ✅ Semua di Basic
+https://legisetiawan.gumroad.com/l/invoiceku- ✅ Semua di Basic
 - ✅ 1x Setup Support via Email/Chat
 - ✅ Priority response 1x24 jam
 
