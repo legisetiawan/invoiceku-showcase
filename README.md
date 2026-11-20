@@ -22,10 +22,10 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="screenshots/01-dashboard.png" width="200" alt="Dashboard"><br><b>Dashboard</b></td>
-    <td align="center"><img src="screenshots/02-form.png" width="200" alt="Form Invoice"><br><b>Form Invoice</b></td>
-    <td align="center"><img src="screenshots/03-detail.png" width="200" alt="Detail Invoice"><br><b>Detail Invoice</b></td>
-    <td align="center"><img src="screenshots/04-pdf.png" width="200" alt="PDF Preview"><br><b>PDF Export</b></td>
+    <td align="center"><img src="screenshots/dashboard.png" width="200" alt="Dashboard"><br><b>Dashboard</b></td>
+    <td align="center"><img src="screenshots/form.png" width="200" alt="Form Invoice"><br><b>Form Invoice</b></td>
+    <td align="center"><img src="screenshots/detail.png" width="200" alt="Detail Invoice"><br><b>Detail Invoice</b></td>
+    <td align="center"><img src="screenshots/pdf.png" width="200" alt="PDF Preview"><br><b>PDF Export</b></td>
   </tr>
 </table>
 </div>
