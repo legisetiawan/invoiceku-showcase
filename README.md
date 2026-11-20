@@ -22,10 +22,10 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="screenshots/dashboard.png" width="200" alt="Dashboard"><br><b>Dashboard</b></td>
-    <td align="center"><img src="screenshots/form.png" width="200" alt="Form Invoice"><br><b>Form Invoice</b></td>
-    <td align="center"><img src="screenshots/detail.png" width="200" alt="Detail Invoice"><br><b>Detail Invoice</b></td>
-    <td align="center"><img src="screenshots/pdf.png" width="200" alt="PDF Preview"><br><b>PDF Export</b></td>
+    <td align="center"><img src="screenshot/dashboard.png" width="200" alt="Dashboard"><br><b>Dashboard</b></td>
+    <td align="center"><img src="screenshot/form.png" width="200" alt="Form Invoice"><br><b>Form Invoice</b></td>
+    <td align="center"><img src="screenshot/detail.png" width="200" alt="Detail Invoice"><br><b>Detail Invoice</b></td>
+    <td align="center"><img src="screenshot/pdf.png" width="200" alt="PDF Preview"><br><b>PDF Export</b></td>
   </tr>
 </table>
 </div>
@@ -33,7 +33,7 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="screenshots/05-profile.png" width="200" alt="Profil Bisnis"><br><b>Profil Bisnis</b></td>
+    <td align="center"><img src="screenshot/profile.png" width="200" alt="Profil Bisnis"><br><b>Profil Bisnis</b></td>
   </tr>
 </table>
 </div>
@@ -79,7 +79,7 @@
 | **Design System** | Material 3 |
 | **Database** | Room (SQLite) dengan KSP |
 | **PDF Generator** | Android PdfDocument API |
-| **Min SDK** | 24 (Android 7.0) |
+| **Min SDK** | 23 (Android 6.0) |
 | **Target SDK** | 34+ |
 | **Architecture** | MVVM Pattern |
 
